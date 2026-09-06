@@ -1,9 +1,12 @@
-# Compiler files
+# Foundry
 cache/
 out/
+broadcast/
+lib/
 
-# Dotenv file
+# Dotenv
 .env
+.env.*
 
 # Node modules
 node_modules/
@@ -16,6 +19,6 @@ Thumbs.db
 .vscode/
 .idea/
 
-# Private keys
+# Private keys / secrets
 *.key
 *.pem

@@ -1,4 +1,4 @@
-# Akam Token (AKM)
+# Akam Token (AKAM)
 
 A simple, immutable ERC-20 token built on Polygon with a fixed supply.
 
