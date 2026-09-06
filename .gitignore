@@ -1,0 +1,21 @@
+# Compiler files
+cache/
+out/
+
+# Dotenv file
+.env
+
+# Node modules
+node_modules/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Private keys
+*.key
+*.pem
