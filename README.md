@@ -6,11 +6,11 @@ A simple, immutable ERC-20 token built on Polygon with a fixed supply.
 
 | Property | Value |
 | :--- | :--- |
-| **Name** | Akam |
+| **Name** | AKAM |
 | **Symbol** | AKAM |
 | **Network** | Polygon PoS |
 | **Standard** | ERC-20 |
-| **Total Supply** | 400,000,000 AKM |
+| **Total Supply** | 400,000,000 AKAM |
 | **Decimals** | 18 |
 | **Mintable** | ❌ No (Fixed Forever) |
 
