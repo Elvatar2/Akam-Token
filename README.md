@@ -6,7 +6,7 @@ A simple, immutable ERC-20 token built on Polygon with a fixed supply.
 
 | Property | Value |
 | :--- | :--- |
-| **Name** | AKAM |
+| **Name** | Akam |
 | **Symbol** | AKAM |
 | **Network** | Polygon PoS |
 | **Standard** | ERC-20 |
